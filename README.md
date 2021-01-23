@@ -3,7 +3,7 @@ A socially distanced party game
 
 ## Installation
 ### Prerequisites
-####freelan
+#### freelan
 You can of course use any vpn software, but this one is free, simple, very flexible and platform independent.)
 Follow the instructions at www.freelan.org/get_help.html#adjusting-the-configuration.
 Register to a dyndns servie (like [duckdns.org](https://www.duckdns.org)). 
@@ -24,24 +24,24 @@ One round consists of 4 levels.
 
 #### LEVEL 1: Explain.
 Explain the term as well as possible.
-•	No synonyms (no “another word for…”)
-•	No rhymes (no “it rhymes with…”)
-•	Do not use words from the same word stem. (e.g. theft-thief)
+* No synonyms (no “another word for…”)
+* No rhymes (no “it rhymes with…”)
+* Do not use words from the same word stem. (e.g. theft-thief)
 
 #### LEVEL 2: Mime.
 Use your body and face to depict the term.
-•	Do not make sounds.
-•	No sign language.
-•	Showing numbers using your fingers is okay.
-•	Do not use items. Only you, yourself and… well… you.
+* Do not make sounds.
+* No sign language.
+* Showing numbers using your fingers is okay.
+* Do not use items. Only you, yourself and… well… you.
 
 #### LEVEL 3: Explain using one word.
 ONE word.
-•	see level 1
+* see level 1
 
 #### LEVEL 4: Sound.
 Make ONE sound to describe the word.
-•	You may repeat the sound in a slightly different way but it must clearly be the same sound.
+* You may repeat the sound in a slightly different way but it must clearly be the same sound.
 
 The words remain the same throughout each round. You have one minute per level to guess as many words as possible, each term equals one point. 
 Monkey Time©  can either be played in teams or individually. If you play in teams, each team gets one minute per level to guess. If you play individually everyone gets to guess for one minute while one person explains/mimes/makes a sound.
