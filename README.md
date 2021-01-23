@@ -36,11 +36,11 @@ Use your body and face to depict the term.
 * Do not use items. Only you, yourself and… well… you.
 
 #### LEVEL 3: Explain using one word.
-ONE word.
+*One* word.
 * see level 1
 
 #### LEVEL 4: Sound.
-Make ONE sound to describe the word.
+Make *one* sound to describe the word.
 * You may repeat the sound in a slightly different way but it must clearly be the same sound.
 
 The words remain the same throughout each round. You have one minute per level to guess as many words as possible, each term equals one point. 
